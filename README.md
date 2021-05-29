@@ -35,4 +35,9 @@ Here we have another heat map, it not only breaks it down into gender, but also 
 
 ![image](https://github.com/snkty8/BikeSharing/blob/main/images/average_trip_duration.png)
 
-This last chart shows an age breakdown of users.   Those born in the year 1969 seem to be the biggest customers.  Since, this chart is not broken down into subscribers and customers, we do have worry if this data is acurate.  The year 1969 could be a joke, hence the sexual nature of the number 69.  
+This last chart shows an age breakdown of users.   Those born in the year 1969 seem to be the biggest customers.  Since, this chart is not broken down into subscribers and customers, we do have worry if this data is acurate.  The year 1969 could be a joke, hence the sexual nature of the number 69.  Adults and teenagers alike, like to play games when they think no one is looking. 
+
+
+## Summary 
+
+The main purpose of this proposal was to evaluate wether or not a bike service would be benefical for Des Moines.  The data we use for New York City.  New York is a very big and busy city, and Des Monies is not.  Although we may get the same trends for a bike service is Des Monies, the profit would not be as big.  We have to look at the bigger picture.  New York is a larger city, but businesses are plentiful. Des Monies is a smaller city. We can assume there are the same types of busniesses, but they are more spend out compared to New York. Riding a bike 3 miles in Des Monies is not the same as riding a bike 3 miles is Des Monies.  There runs the chance of no bikes in the area in Des Monies when needed versus New York city where they would be plentiful. Most people already have cars to get them from place to place with no problem.  The bikes would be used for tourist attractions.  The same could be said for Des Monies, but these areas are in business districts.  This is not the same for Des Monies. 
