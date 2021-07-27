@@ -1,6 +1,6 @@
 # BikeSharing
 
-To view the full story of the analytical proposal: https://public.tableau.com/app/profile/sierra.knighten/viz/BikeSharing_Challenge/BikeSharingResults
+To view the full story of the analytical proposal: [Challenge Proposal](https://public.tableau.com/app/profile/sierra.knighten/viz/BikeSharing_Challenge/BikeSharingResults)
 
 
 ## Overview 
